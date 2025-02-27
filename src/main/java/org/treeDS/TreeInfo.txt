@@ -1,0 +1,4 @@
+Binary tree :
+
+constrain the number of children for each parent to at most two
+
