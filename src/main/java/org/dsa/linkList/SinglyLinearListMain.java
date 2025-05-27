@@ -40,14 +40,10 @@ class SinlyLinearList{
         }
     }
     public void addFirst(int val){
-        Node trav = head;
         Node newNode = new Node(val);
-        if (trav == null)
-            head = newNode;
-        else {
             newNode.next = head;
             head = newNode;
-        }
+
     }
     public void delLast(){
         Node trav = head;
@@ -87,18 +83,18 @@ class SinlyLinearList{
 public class SinglyLinearListMain {
     public static void main(String[] args) {
         SinlyLinearList list = new SinlyLinearList();
-        list.addLast(11);
-        list.addLast(22);
-        list.addLast(33);
+//        list.addLast(11);
+//        list.addLast(22);
+//        list.addLast(33);
 //        list.display();
         list.addFirst(44);
         list.addFirst(55);
 //        list.delLast();
 //        list.delFirst();
         list.display();
-        list.delAtPos(2);
-        System.out.println();
-        list.display();
+//        list.delAtPos(2);
+//        System.out.println();
+//        list.display();
     }
 
 }

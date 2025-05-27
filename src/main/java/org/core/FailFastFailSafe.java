@@ -6,7 +6,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 
 public class FailFastFailSafe {
     public static void main(String[] args) {
-//        failFastIterator();
+        failFastIterator();
         failSafeIterator();
     }
 
@@ -33,7 +33,7 @@ public class FailFastFailSafe {
         while (iterator.hasNext()){
             String server = iterator.next();
             /**It wil cannot modify the collection while iterating gives ConcurrentModificationException*/
-//            servers.add("Jetty");
+            servers.add("Jetty");
             System.out.println(server);
         }
     }

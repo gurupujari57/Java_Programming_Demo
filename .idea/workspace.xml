@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf6a9750-b06e-4205-b504-bae0e2cd478f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/arraysExample/RightRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dsa/graph/NonWtGraphMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dsa/linkList/DoublyLinearListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dsa/stackqueue/stack/StackUsingQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lld/observerPattern/observable/IphoneObservalbelImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lld/observerPattern/observable/StocksObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lld/observerPattern/observer/EmailAlertImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lld/observerPattern/observer/MobileAlertobserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lld/observerPattern/observer/NotificationAlertObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lld/observerPattern/store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/core/FailFastFailSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/core/FailFastFailSafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/dsa/linkList/DoublyCircularListmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/dsa/linkList/DoublyCircularListmain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/dsa/linkList/SinglyLinearListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/dsa/linkList/SinglyLinearListMain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2hNpVlFQGBGpGKFQ7TcbWaz4aXh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Refactored_MS/ms-360&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.51701933&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\FProgramming\functional_p\src\main\java\org" />
+      <recent name="D:\projects\FProgramming\functional_p\src\main\java\org\dsa" />
+      <recent name="D:\projects\FProgramming\functional_p\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.store">
+    <configuration name="HashMainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.dsa.hashTable.HashMainTest" />
+      <module name="functional_p" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dsa.hashTable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.dsa.hashTable.HashTableMain" />
+      <module name="functional_p" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dsa.hashTable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseLinkedListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.dsa.linkList.ReverseLinkedListMain" />
+      <module name="functional_p" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dsa.linkList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackUsingQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.dsa.stackqueue.stack.StackUsingQueues" />
+      <module name="functional_p" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.dsa.stackqueue.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.lld.observerPattern.store" />
+      <module name="functional_p" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lld.observerPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.store" />
+      <item itemvalue="Application.StackUsingQueues" />
+      <item itemvalue="Application.HashMainTest" />
+      <item itemvalue="Application.HashTableMain" />
+      <item itemvalue="Application.ReverseLinkedListMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.store" />
+        <item itemvalue="Application.StackUsingQueues" />
+        <item itemvalue="Application.HashMainTest" />
+        <item itemvalue="Application.HashTableMain" />
+        <item itemvalue="Application.ReverseLinkedListMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf6a9750-b06e-4205-b504-bae0e2cd478f" name="Changes" comment="" />
+      <created>1717444414908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717444414908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/encryption/EncKey.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/dsa/searching/BinarySearch.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/arraysExample/SubArraySum.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/dsa/stackqueue/StackApplication.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/dsa/stackqueue/StackApplication.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/dsa/stackqueue/StackApplication.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/ReverseInteger.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/dsa/bstree/BSTreeMain.java</url>
+          <line>181</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/arraysExample/RightRotation.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/core/FailFastFailSafe.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/core/FailFastFailSafe.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/dsa/stackqueue/stack/StackImplArray.java</url>
+          <line>25</line>
+          <properties class="org.dsa.stackqueue.stack.StackImplArray" method="push">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/dsa/stackqueue/stack/StackImplArray.java</url>
+          <line>35</line>
+          <properties class="org.dsa.stackqueue.stack.StackImplArray" method="top">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/dsa/stackqueue/queue/QueueImplArrays.java</url>
+          <line>3</line>
+          <properties class="org.dsa.stackqueue.queue.QueueImplArrays">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/dsa/bstree/BSTreeMain.java</url>
+          <line>180</line>
+          <properties class="org.dsa.bstree.BinarySearch" method="binarySearchParent">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/dsa/sorting/MergeSort.java</url>
+          <line>5</line>
+          <properties class="org.dsa.sorting.MergeSort" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/arraysExample/RightRotation.java</url>
+          <line>16</line>
+          <properties class="org.arraysExample.RightRotation" method="reverseArray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
